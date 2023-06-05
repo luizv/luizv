@@ -4,7 +4,7 @@
 ## StackOverflow
 <i>Top 2% all time</i>
 
-<a href="https://stackexchange.com/users/8993869"><img src="https://stackexchange.com/users/flair/8993869.png" width="208" height="58" alt="profile for luizv on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for luizv on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackoverflow.com/users/6704959/luizv"><img src="https://stackoverflow.com/users/flair/6704959.png" width="208" height="58" alt="profile for luizv at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for luizv at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 
 ## CodeWars
