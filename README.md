@@ -1,4 +1,7 @@
 ## Github
+<!-- Only commenting out because it's cool, despite it didn't reflect my top languages and true stats becuz only consider public repos. 
+[![Luiz's github stats](https://github-readme-stats.vercel.app/api?username=luizv&show_icons=true)](https://github.com/luizv)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizv&layout=compact)](https://github.com/luizv)
+ -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=luizv&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## StackOverflow
