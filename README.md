@@ -7,6 +7,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luizv&" alt="luizv" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luizv&show_icons=true&locale=en" alt="luizv" /></p> -->
+<!-- ![Metrics](https://metrics.lecoq.io/luizv?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto) -->
 
 
 ## StackOverflow
