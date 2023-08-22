@@ -4,6 +4,11 @@
  -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=luizv&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luizv&" alt="luizv" /></p>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luizv&show_icons=true&locale=en" alt="luizv" /></p> -->
+
+
 ## StackOverflow
 <i>Top 2% all time</i>
 
@@ -23,7 +28,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
