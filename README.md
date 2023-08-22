@@ -8,7 +8,7 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luizv&show_icons=true&locale=en" alt="luizv" /></p> -->
 <!-- ![Metrics](https://metrics.lecoq.io/luizv?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto) -->
-
+<!-- https://myreadme.vercel.app/api/embed/luizv?panels=userstatistics,toprepositories,toplanguages,commitgraph -->
 
 ## StackOverflow
 <i>Top 2% all time</i>
