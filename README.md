@@ -4,6 +4,8 @@
  -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=luizv&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luizv&" alt="luizv" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luizv&show_icons=true&locale=en" alt="luizv" /></p> -->
@@ -15,6 +17,7 @@
 
 <a href="https://stackoverflow.com/users/6704959/luizv"><img src="https://stackoverflow.com/users/flair/6704959.png" width="208" height="58" alt="profile for luizv at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for luizv at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
+<!-- [![Luizv StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/6704959)](https://stackoverflow.com/users/6704959/luizv) -->
 
 ## CodeWars
 <i>Top 10% all time</i>
