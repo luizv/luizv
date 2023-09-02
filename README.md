@@ -34,7 +34,11 @@ $\textcolor{LimeGreen}{\textsf{𝟚}}$
 
 $\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
 
-</td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/reveal/4/4">🌀</a><a href="https://minesweep-nine.vercel.app/flag/4/4?state=set">＊</a></td></tr></tbody></table>
+</td><td align="center" width=60 height=60>
+
+$\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
+
+</td></tr></tbody></table>
 <!-- END MINESWEEP BOARD -->
 
 </div>
