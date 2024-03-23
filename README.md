@@ -26,7 +26,11 @@ $\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
 
 $\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
 
-</td></tr><tr><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/flag/3/0?state=unset">🚩</a></td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/flag/3/1?state=unset">🚩</a></td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/reveal/3/2">🌀</a><a href="https://minesweep-nine.vercel.app/flag/3/2?state=set">＊</a></td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/flag/3/3?state=unset">🚩</a></td><td align="center" width=60 height=60>
+</td></tr><tr><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/flag/3/0?state=unset">🚩</a></td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/flag/3/1?state=unset">🚩</a></td><td align="center" width=60 height=60>
+
+$\textcolor{LimeGreen}{\textsf{𝟚}}$
+
+</td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/flag/3/3?state=unset">🚩</a></td><td align="center" width=60 height=60>
 
 $\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
 
