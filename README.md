@@ -10,7 +10,7 @@ $\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
 
 $\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
 
-</td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/reveal/0/3">🌀</a><a href="https://minesweep-nine.vercel.app/flag/0/3?state=set">＊</a></td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/reveal/0/4">🌀</a><a href="https://minesweep-nine.vercel.app/flag/0/4?state=set">＊</a></td></tr><tr><td align="center" width=60 height=60>
+</td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/flag/0/3?state=unset">🚩</a></td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/reveal/0/4">🌀</a><a href="https://minesweep-nine.vercel.app/flag/0/4?state=set">＊</a></td></tr><tr><td align="center" width=60 height=60>
 
 $\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
 
