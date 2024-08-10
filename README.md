@@ -30,7 +30,11 @@ $\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
 
 $\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
 
-</td><td align="center" width=60 height=60> </td></tr><tr><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/reveal/4/0">🌀</a><a href="https://minesweep-nine.vercel.app/flag/4/0?state=set">＊</a></td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/reveal/4/1">🌀</a><a href="https://minesweep-nine.vercel.app/flag/4/1?state=set">＊</a></td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/flag/4/2?state=unset">🚩</a></td><td align="center" width=60 height=60>
+</td><td align="center" width=60 height=60> </td></tr><tr><td align="center" width=60 height=60>
+
+$\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
+
+</td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/reveal/4/1">🌀</a><a href="https://minesweep-nine.vercel.app/flag/4/1?state=set">＊</a></td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/flag/4/2?state=unset">🚩</a></td><td align="center" width=60 height=60>
 
 $\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
 
