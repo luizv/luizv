@@ -2,47 +2,11 @@
 <div align="center">
   
 <!-- BEGIN MINESWEEP BOARD -->
-<table border="0"><tbody><tr><td align="center" width=60 height=60>
+<table border="0"><tbody><tr><td align="center" width=60 height=60>𝟚</td><td align="center" width=60 height=60>✅</td><td align="center" width=60 height=60>𝟙</td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td></tr><tr><td align="center" width=60 height=60>✅</td><td align="center" width=60 height=60>𝟚</td><td align="center" width=60 height=60>𝟙</td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td></tr><tr><td align="center" width=60 height=60>𝟙</td><td align="center" width=60 height=60>𝟙</td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60>𝟙</td><td align="center" width=60 height=60>𝟙</td></tr><tr><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60>𝟚</td><td align="center" width=60 height=60>✅</td></tr><tr><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60>𝟚</td><td align="center" width=60 height=60>✅</td></tr></tbody></table><h1 align="center">Congratulations!</h1><h4 align="center">You've flagged all mines!</h4><br>
 
-$\textcolor{LimeGreen}{\textsf{𝟚}}$
+<a href="https://minesweep-nine.vercel.app/reset"><img src="./assets/reset_img.png" align="center" alt="Reset Game"></a>  &nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Minesweeper_(video_game)"><img src="./assets/info_img.png" align="center" alt="Game Info"></a>  
 
-</td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/flag/0/1?state=unset">🚩</a></td><td align="center" width=60 height=60>
 
-$\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
-
-</td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td></tr><tr><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/flag/1/0?state=unset">🚩</a></td><td align="center" width=60 height=60>
-
-$\textcolor{LimeGreen}{\textsf{𝟚}}$
-
-</td><td align="center" width=60 height=60>
-
-$\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
-
-</td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td></tr><tr><td align="center" width=60 height=60>
-
-$\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
-
-</td><td align="center" width=60 height=60>
-
-$\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
-
-</td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60>
-
-$\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
-
-</td><td align="center" width=60 height=60>
-
-$\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
-
-</td></tr><tr><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60>
-
-$\textcolor{LimeGreen}{\textsf{𝟚}}$
-
-</td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/flag/3/4?state=unset">🚩</a></td></tr><tr><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60>
-
-$\textcolor{LimeGreen}{\textsf{𝟚}}$
-
-</td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/reveal/4/4">🌀</a><a href="https://minesweep-nine.vercel.app/flag/4/4?state=set">＊</a></td></tr></tbody></table>
 <!-- END MINESWEEP BOARD -->
 
 </div>
