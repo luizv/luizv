@@ -2,31 +2,11 @@
 <div align="center">
   
 <!-- BEGIN MINESWEEP BOARD -->
-<table border="0"><tbody><tr><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td></tr><tr><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60>
+<table border="0"><tbody><tr><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td></tr><tr><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60>𝟙</td><td align="center" width=60 height=60>𝟙</td></tr><tr><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60>𝟚</td><td align="center" width=60 height=60>💣</td></tr><tr><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60>𝟙</td><td align="center" width=60 height=60>𝟜</td><td align="center" width=60 height=60>💣</td></tr><tr><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60>𝟙</td><td align="center" width=60 height=60>💣</td><td align="center" width=60 height=60>💥</td></tr></tbody></table><h1 align="center">Game Over!</h1><h4 align="center">You hit a mine!</h4><br>
 
-$\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
+<a href="https://minesweep-nine.vercel.app/reset"><img src="./assets/reset_img.png" align="center" alt="Reset Game"></a>  &nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Minesweeper_(video_game)"><img src="./assets/info_img.png" align="center" alt="Game Info"></a>  
 
-</td><td align="center" width=60 height=60>
 
-$\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
-
-</td></tr><tr><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60>
-
-$\textcolor{LimeGreen}{\textsf{𝟚}}$
-
-</td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/reveal/2/4">🌀</a><a href="https://minesweep-nine.vercel.app/flag/2/4?state=set">＊</a></td></tr><tr><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60>
-
-$\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
-
-</td><td align="center" width=60 height=60>
-
-$\textcolor{coral}{\textsf{𝟜}}$
-
-</td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/reveal/3/4">🌀</a><a href="https://minesweep-nine.vercel.app/flag/3/4?state=set">＊</a></td></tr><tr><td align="center" width=60 height=60> </td><td align="center" width=60 height=60> </td><td align="center" width=60 height=60>
-
-$\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
-
-</td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/reveal/4/3">🌀</a><a href="https://minesweep-nine.vercel.app/flag/4/3?state=set">＊</a></td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/reveal/4/4">🌀</a><a href="https://minesweep-nine.vercel.app/flag/4/4?state=set">＊</a></td></tr></tbody></table>
 <!-- END MINESWEEP BOARD -->
 
 </div>
