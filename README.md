@@ -2,7 +2,11 @@
 <div align="center">
   
 <!-- BEGIN MINESWEEP BOARD -->
-<table border="0"><tbody><tr><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/reveal/0/0">🌀</a><a href="https://minesweep-nine.vercel.app/flag/0/0?state=set">＊</a></td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/flag/0/1?state=unset">🚩</a></td><td align="center" width=60 height=60>
+<table border="0"><tbody><tr><td align="center" width=60 height=60>
+
+$\textcolor{LimeGreen}{\textsf{𝟚}}$
+
+</td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/flag/0/1?state=unset">🚩</a></td><td align="center" width=60 height=60>
 
 $\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
 
