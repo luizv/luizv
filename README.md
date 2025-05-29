@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<code style="color  : red">red text</code>
+<span style="color:red">red text</span>
