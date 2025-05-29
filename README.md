@@ -6,7 +6,7 @@
 
 $\textcolor{DeepSkyBlue}{\textsf{𝟙}}$
 
-</td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/reveal/4/1">🌀</a><a href="https://minesweep-nine.vercel.app/flag/4/1?state=set">＊</a></td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/reveal/4/2">🌀</a><a href="https://minesweep-nine.vercel.app/flag/4/2?state=set">＊</a></td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/reveal/4/3">🌀</a><a href="https://minesweep-nine.vercel.app/flag/4/3?state=set">＊</a></td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/reveal/4/4">🌀</a><a href="https://minesweep-nine.vercel.app/flag/4/4?state=set">＊</a></td></tr></tbody></table>
+</td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/flag/4/1?state=unset">🚩</a></td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/reveal/4/2">🌀</a><a href="https://minesweep-nine.vercel.app/flag/4/2?state=set">＊</a></td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/reveal/4/3">🌀</a><a href="https://minesweep-nine.vercel.app/flag/4/3?state=set">＊</a></td><td align="center" width=60 height=60><a href="https://minesweep-nine.vercel.app/reveal/4/4">🌀</a><a href="https://minesweep-nine.vercel.app/flag/4/4?state=set">＊</a></td></tr></tbody></table>
 <!-- END MINESWEEP BOARD -->
 
 </div>
