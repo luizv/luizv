@@ -1,4 +1,5 @@
 ## Community Minesweeper
+Flag all mines to win the game
 <div align="center">
   
 <!-- BEGIN MINESWEEP BOARD -->
@@ -6,8 +7,9 @@
 
 <a href="https://minesweep-nine.vercel.app/reset"><img src="./assets/reset_img.png" align="center" alt="Reset Game"></a>  &nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Minesweeper_(video_game)"><img src="./assets/info_img.png" align="center" alt="Game Info"></a>  
 
-
 <!-- END MINESWEEP BOARD -->
+🌀: Reveal it
+*: Flag/Unflag it
 
 </div>
 
